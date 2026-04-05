@@ -1,0 +1,197 @@
+2026.04.05 14:09:41 INFO  Started: Metals version 1.6.6 in folders 'C:\Users\hp\eclipseJEE\Tp3Project' for client Visual Studio Code 1.113.0.
+2026.04.05 14:09:41 INFO  Memory monitor started
+2026.04.05 14:09:44 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.05 14:09:45 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\model\User.java. Using fallback presentation compiler.
+avr. 05, 2026 2:09:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 5
+avr. 05, 2026 2:09:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 2
+avr. 05, 2026 2:09:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 1
+2026.04.05 14:09:46 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\model\User.java. Using fallback presentation compiler.
+2026.04.05 14:09:46 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\HomeServlet.java. Using fallback presentation compiler.
+2026.04.05 14:09:46 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\model\User.java. Using fallback presentation compiler.
+2026.04.05 14:09:46 WARN  no build tool detected in workspace 'C:\Users\hp\eclipseJEE\Tp3Project'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.04.05 14:09:46 WARN  Build server is not auto-connectable.
+2026.04.05 14:09:47 WARN  no build target for: C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\model\User.java
+2026.04.05 14:09:47 WARN  no build target for: C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\HomeServlet.java
+2026.04.05 14:09:47 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\HomeServlet.java. Using fallback presentation compiler.
+2026.04.05 14:09:47 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\HomeServlet.java. Using fallback presentation compiler.
+avr. 05, 2026 2:09:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 8
+avr. 05, 2026 2:09:48 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 05, 2026 2:09:48 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 05, 2026 2:09:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 12
+2026.04.05 14:09:47 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\HomeServlet.java. Using fallback presentation compiler.
+avr. 05, 2026 2:09:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 14
+avr. 05, 2026 2:09:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 18
+avr. 05, 2026 2:09:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 11
+avr. 05, 2026 2:09:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 9
+avr. 05, 2026 2:09:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 10
+2026.04.05 14:09:47 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\HomeServlet.java. Using fallback presentation compiler.
+2026.04.05 14:09:50 WARN  no build target for: C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LoginServlet.java
+2026.04.05 14:09:50 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LoginServlet.java. Using fallback presentation compiler.
+2026.04.05 14:09:50 INFO  time: code lens generation in 3.55s
+2026.04.05 14:09:50 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LoginServlet.java. Using fallback presentation compiler.
+2026.04.05 14:09:50 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LoginServlet.java. Using fallback presentation compiler.
+avr. 05, 2026 2:09:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 19
+avr. 05, 2026 2:09:51 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 05, 2026 2:09:51 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 05, 2026 2:09:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 23
+2026.04.05 14:09:50 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LoginServlet.java. Using fallback presentation compiler.
+2026.04.05 14:09:51 INFO  time: code lens generation in 3.55s
+avr. 05, 2026 2:09:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 25
+avr. 05, 2026 2:09:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 29
+avr. 05, 2026 2:09:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 22
+avr. 05, 2026 2:09:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 20
+avr. 05, 2026 2:09:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 21
+2026.04.05 14:09:51 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LoginServlet.java. Using fallback presentation compiler.
+2026.04.05 14:09:52 INFO  time: code lens generation in 1.45s
+2026.04.05 14:09:52 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LogoutServlet.java. Using fallback presentation compiler.
+2026.04.05 14:09:52 WARN  no build target for: C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LogoutServlet.java
+2026.04.05 14:09:52 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LogoutServlet.java. Using fallback presentation compiler.
+avr. 05, 2026 2:09:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 30
+2026.04.05 14:09:52 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LogoutServlet.java. Using fallback presentation compiler.
+avr. 05, 2026 2:09:53 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 05, 2026 2:09:53 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 05, 2026 2:09:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 36
+avr. 05, 2026 2:09:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 34
+avr. 05, 2026 2:09:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 33
+avr. 05, 2026 2:09:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 31
+avr. 05, 2026 2:09:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 32
+2026.04.05 14:09:52 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LogoutServlet.java. Using fallback presentation compiler.
+2026.04.05 14:09:52 WARN  no build target for: C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\SignUpServlet.java
+2026.04.05 14:09:52 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\SignUpServlet.java. Using fallback presentation compiler.
+2026.04.05 14:09:53 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\SignUpServlet.java. Using fallback presentation compiler.
+2026.04.05 14:09:52 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\SignUpServlet.java. Using fallback presentation compiler.
+avr. 05, 2026 2:09:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 40
+avr. 05, 2026 2:09:53 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 05, 2026 2:09:53 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.05 14:09:53 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\SignUpServlet.java. Using fallback presentation compiler.
+avr. 05, 2026 2:09:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 44
+2026.04.05 14:09:53 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\SignUpServlet.java. Using fallback presentation compiler.
+2026.04.05 14:09:55 INFO  time: code lens generation in 1.21s
+2026.04.05 14:09:57 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\SignUpServlet.java. Using fallback presentation compiler.
+2026.04.05 14:09:58 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\SignUpServlet.java. Using fallback presentation compiler.
+2026.04.05 14:09:58 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\SignUpServlet.java. Using fallback presentation compiler.
+avr. 05, 2026 2:09:59 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 05, 2026 2:09:59 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 05, 2026 2:10:34 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 05, 2026 2:10:35 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 05, 2026 2:10:39 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 05, 2026 2:10:40 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 05, 2026 2:10:43 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 05, 2026 2:10:43 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 05, 2026 2:10:46 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 05, 2026 2:10:46 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.05 14:13:22 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\HomeServlet.java. Using fallback presentation compiler.
+2026.04.05 14:13:22 WARN  no build target for: C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\HomeServlet.java
+avr. 05, 2026 2:13:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 66
+2026.04.05 14:13:22 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\HomeServlet.java. Using fallback presentation compiler.
+2026.04.05 14:13:23 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\HomeServlet.java. Using fallback presentation compiler.
+avr. 05, 2026 2:13:23 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 05, 2026 2:13:23 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.05 14:13:23 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\HomeServlet.java. Using fallback presentation compiler.
+2026.04.05 14:13:24 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\HomeServlet.java. Using fallback presentation compiler.
+2026.04.05 14:13:23 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\HomeServlet.java. Using fallback presentation compiler.
+2026.04.05 14:13:23 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\HomeServlet.java. Using fallback presentation compiler.
+2026.04.05 14:13:26 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\HomeServlet.java. Using fallback presentation compiler.
+2026.04.05 14:13:26 WARN  no build target for: C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LoginServlet.java
+2026.04.05 14:13:26 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LoginServlet.java. Using fallback presentation compiler.
+2026.04.05 14:13:26 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LoginServlet.java. Using fallback presentation compiler.
+2026.04.05 14:13:26 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LoginServlet.java. Using fallback presentation compiler.
+2026.04.05 14:13:26 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LoginServlet.java. Using fallback presentation compiler.
+avr. 05, 2026 2:13:26 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.05 14:13:27 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LoginServlet.java. Using fallback presentation compiler.
+avr. 05, 2026 2:13:27 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.05 14:13:27 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LoginServlet.java. Using fallback presentation compiler.
+2026.04.05 14:13:27 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LoginServlet.java. Using fallback presentation compiler.
+2026.04.05 14:13:27 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LoginServlet.java. Using fallback presentation compiler.
+2026.04.05 14:13:27 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LoginServlet.java. Using fallback presentation compiler.
+2026.04.05 14:13:29 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LoginServlet.java. Using fallback presentation compiler.
+2026.04.05 14:13:30 WARN  no build target for: C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LogoutServlet.java
+2026.04.05 14:13:29 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LogoutServlet.java. Using fallback presentation compiler.
+2026.04.05 14:13:30 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LogoutServlet.java. Using fallback presentation compiler.
+2026.04.05 14:13:29 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LogoutServlet.java. Using fallback presentation compiler.
+avr. 05, 2026 2:13:30 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.05 14:13:29 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LogoutServlet.java. Using fallback presentation compiler.
+2026.04.05 14:13:30 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LogoutServlet.java. Using fallback presentation compiler.
+2026.04.05 14:13:29 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LogoutServlet.java. Using fallback presentation compiler.
+avr. 05, 2026 2:13:30 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.05 14:13:31 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LogoutServlet.java. Using fallback presentation compiler.
+2026.04.05 14:13:31 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LogoutServlet.java. Using fallback presentation compiler.
+2026.04.05 14:13:32 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LogoutServlet.java. Using fallback presentation compiler.
+2026.04.05 14:13:32 WARN  no build target for: C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\SignUpServlet.java
+2026.04.05 14:13:32 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\SignUpServlet.java. Using fallback presentation compiler.
+avr. 05, 2026 2:13:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 118
+2026.04.05 14:13:33 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\SignUpServlet.java. Using fallback presentation compiler.
+2026.04.05 14:13:32 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\SignUpServlet.java. Using fallback presentation compiler.
+2026.04.05 14:13:32 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\SignUpServlet.java. Using fallback presentation compiler.
+avr. 05, 2026 2:13:33 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.05 14:13:32 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\SignUpServlet.java. Using fallback presentation compiler.
+2026.04.05 14:13:33 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\SignUpServlet.java. Using fallback presentation compiler.
+avr. 05, 2026 2:13:34 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.05 14:13:33 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\SignUpServlet.java. Using fallback presentation compiler.
+2026.04.05 14:13:33 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\SignUpServlet.java. Using fallback presentation compiler.
+2026.04.05 14:13:34 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\SignUpServlet.java. Using fallback presentation compiler.
+2026.04.05 14:13:33 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\SignUpServlet.java. Using fallback presentation compiler.
+2026.04.05 14:13:38 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\SignUpServlet.java. Using fallback presentation compiler.
+2026.04.05 14:13:38 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\SignUpServlet.java. Using fallback presentation compiler.
+2026.04.05 14:15:56 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\SignUpServlet.java. Using fallback presentation compiler.
+avr. 05, 2026 2:15:57 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 05, 2026 2:15:57 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.05 14:20:47 INFO  Shutting down server
+2026.04.05 14:20:47 INFO  Memory monitor stopped
+2026.04.05 14:20:47 INFO  shutting down Metals
+2026.04.05 14:20:47 INFO  Exiting server

@@ -1,13 +1,25 @@
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <!DOCTYPE html>
 <html>
 <head>
     <title>Home</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
-<body>
-<h2>Bienvenue</h2>
-<p>
-    Connecté en tant que : <%= ((com.tp.model.User)session.getAttribute("user")).getName() %>
-</p>
-<a href="LogoutServlet">Se déconnecter</a>
+
+<body class="bg-light">
+<div class="container d-flex justify-content-center align-items-center vh-100">
+    <div class="card p-4 shadow text-center" style="width: 400px;">
+        <h3 class="mb-3">Bienvenue</h3>
+        <p class="mb-4">
+            ConnectÃ© en tant que :
+            <strong>
+                <%= ((com.tp.model.User)session.getAttribute("user")).getName() %>
+            </strong>
+        </p>
+        <a href="LogoutServlet" class="btn btn-danger">
+            Se dÃ©connecter
+        </a>
+    </div>
+</div>
 </body>
 </html>

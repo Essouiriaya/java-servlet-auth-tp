@@ -4,12 +4,16 @@ import com.tp.model.User;
 import java.util.HashMap;
 import java.util.Map;
 
-
 public class UserDao {
+
     private static Map<String, User> users = new HashMap<>();
 
     public boolean addUser(User user) {
-        if(users.containsKey(user.getEmail())) return false;
+        if (users.containsKey(user.getEmail())) {
+            return false;
+        }
+        
+        users.put(user.getEmail(), user);
         return true;
     }
 
@@ -18,7 +22,13 @@ public class UserDao {
     }
 
     public boolean validate(String email, String password) {
+
         User user = users.get(email);
-        return user != null && user.getPassword().equals(password);
+
+        if (user == null) {
+            return false;
+        }
+
+        return user.getPassword().equals(password);
     }
 }
