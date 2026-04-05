@@ -195,3 +195,311 @@ INFOS: Unsupported notification method: $/setTrace
 2026.04.05 14:20:47 INFO  Memory monitor stopped
 2026.04.05 14:20:47 INFO  shutting down Metals
 2026.04.05 14:20:47 INFO  Exiting server
+2026.04.05 16:45:43 INFO  Started: Metals version 1.6.6 in folders 'C:\Users\hp\eclipseJEE\Tp3Project' for client Visual Studio Code 1.114.0.
+2026.04.05 16:45:43 INFO  Memory monitor started
+2026.04.05 16:45:45 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.05 16:45:45 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\model\User.java. Using fallback presentation compiler.
+2026.04.05 16:45:47 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\model\User.java. Using fallback presentation compiler.
+2026.04.05 16:45:47 WARN  no build tool detected in workspace 'C:\Users\hp\eclipseJEE\Tp3Project'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.04.05 16:45:47 WARN  Build server is not auto-connectable.
+2026.04.05 16:45:47 WARN  no build target for: C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\model\User.java
+2026.04.05 16:45:47 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\model\User.java. Using fallback presentation compiler.
+2026.04.05 16:45:49 INFO  time: code lens generation in 2.02s
+2026.04.05 16:47:00 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\model\User.java. Using fallback presentation compiler.
+2026.04.05 16:47:00 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\model\User.java. Using fallback presentation compiler.
+2026.04.05 16:47:00 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\model\User.java. Using fallback presentation compiler.
+2026.04.05 16:47:00 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\model\User.java. Using fallback presentation compiler.
+2026.04.05 16:47:02 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\model\User.java. Using fallback presentation compiler.
+2026.04.05 16:47:02 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\model\User.java. Using fallback presentation compiler.
+avr. 05, 2026 4:47:15 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.05 16:47:15 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\model\User.java. Using fallback presentation compiler.
+2026.04.05 16:50:25 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\model\User.java. Using fallback presentation compiler.
+2026.04.05 16:50:27 WARN  no build target for: C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\dao\UserDao.java
+2026.04.05 16:50:27 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\dao\UserDao.java. Using fallback presentation compiler.
+2026.04.05 16:50:27 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\dao\UserDao.java. Using fallback presentation compiler.
+avr. 05, 2026 4:50:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 20
+2026.04.05 16:50:27 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\dao\UserDao.java. Using fallback presentation compiler.
+avr. 05, 2026 4:50:27 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.05 16:50:27 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\dao\UserDao.java. Using fallback presentation compiler.
+2026.04.05 16:50:28 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\dao\UserDao.java. Using fallback presentation compiler.
+2026.04.05 16:50:28 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\dao\UserDao.java. Using fallback presentation compiler.
+2026.04.05 16:50:28 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\dao\UserDao.java. Using fallback presentation compiler.
+2026.04.05 16:50:30 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\dao\UserDao.java. Using fallback presentation compiler.
+2026.04.05 16:50:30 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\dao\UserDao.java. Using fallback presentation compiler.
+2026.04.05 16:50:30 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\dao\UserDao.java. Using fallback presentation compiler.
+2026.04.05 16:50:30 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\dao\UserDao.java. Using fallback presentation compiler.
+2026.04.05 16:50:33 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\dao\UserDao.java. Using fallback presentation compiler.
+2026.04.05 16:50:38 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\dao\UserDao.java. Using fallback presentation compiler.
+2026.04.05 16:50:39 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\dao\UserDao.java. Using fallback presentation compiler.
+2026.04.05 16:50:41 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\dao\UserDao.java. Using fallback presentation compiler.
+2026.04.05 16:50:41 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\dao\UserDao.java. Using fallback presentation compiler.
+2026.04.05 16:50:42 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\dao\UserDao.java. Using fallback presentation compiler.
+2026.04.05 16:50:42 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\dao\UserDao.java. Using fallback presentation compiler.
+2026.04.05 16:50:42 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\dao\UserDao.java. Using fallback presentation compiler.
+2026.04.05 16:50:42 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\dao\UserDao.java. Using fallback presentation compiler.
+2026.04.05 16:50:43 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\dao\UserDao.java. Using fallback presentation compiler.
+2026.04.05 16:50:43 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\dao\UserDao.java. Using fallback presentation compiler.
+2026.04.05 16:50:43 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\dao\UserDao.java. Using fallback presentation compiler.
+2026.04.05 16:50:43 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\dao\UserDao.java. Using fallback presentation compiler.
+2026.04.05 16:50:43 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\dao\UserDao.java. Using fallback presentation compiler.
+2026.04.05 16:50:44 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\dao\UserDao.java. Using fallback presentation compiler.
+2026.04.05 16:50:44 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\dao\UserDao.java. Using fallback presentation compiler.
+avr. 05, 2026 4:50:51 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.05 16:50:51 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\dao\UserDao.java. Using fallback presentation compiler.
+2026.04.05 16:51:30 WARN  no build target for: C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\SignUpServlet.java
+2026.04.05 16:51:31 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\SignUpServlet.java. Using fallback presentation compiler.
+2026.04.05 16:51:31 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\SignUpServlet.java. Using fallback presentation compiler.
+2026.04.05 16:51:31 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\SignUpServlet.java. Using fallback presentation compiler.
+2026.04.05 16:51:31 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\dao\UserDao.java. Using fallback presentation compiler.
+2026.04.05 16:51:31 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\dao\UserDao.java. Using fallback presentation compiler.
+avr. 05, 2026 4:51:31 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.05 16:51:32 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\SignUpServlet.java. Using fallback presentation compiler.
+2026.04.05 16:51:32 WARN  no build target for: C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\dao\UserDao.java
+2026.04.05 16:51:32 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\dao\UserDao.java. Using fallback presentation compiler.
+2026.04.05 16:51:32 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\SignUpServlet.java. Using fallback presentation compiler.
+2026.04.05 16:51:32 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\dao\UserDao.java. Using fallback presentation compiler.
+2026.04.05 16:51:32 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\dao\UserDao.java. Using fallback presentation compiler.
+2026.04.05 16:51:32 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\SignUpServlet.java. Using fallback presentation compiler.
+2026.04.05 16:51:34 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\SignUpServlet.java. Using fallback presentation compiler.
+2026.04.05 16:51:36 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\dao\UserDao.java. Using fallback presentation compiler.
+2026.04.05 16:51:37 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\dao\UserDao.java. Using fallback presentation compiler.
+2026.04.05 16:51:39 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\dao\UserDao.java. Using fallback presentation compiler.
+2026.04.05 16:51:39 WARN  no build target for: C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\SignUpServlet.java
+2026.04.05 16:51:39 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\SignUpServlet.java. Using fallback presentation compiler.
+2026.04.05 16:51:39 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\SignUpServlet.java. Using fallback presentation compiler.
+2026.04.05 16:51:39 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\SignUpServlet.java. Using fallback presentation compiler.
+avr. 05, 2026 4:51:39 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 05, 2026 4:51:39 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.05 16:51:39 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\SignUpServlet.java. Using fallback presentation compiler.
+2026.04.05 16:51:39 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\SignUpServlet.java. Using fallback presentation compiler.
+2026.04.05 16:51:40 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\SignUpServlet.java. Using fallback presentation compiler.
+2026.04.05 16:51:40 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\SignUpServlet.java. Using fallback presentation compiler.
+2026.04.05 16:51:43 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\SignUpServlet.java. Using fallback presentation compiler.
+2026.04.05 16:51:43 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\SignUpServlet.java. Using fallback presentation compiler.
+2026.04.05 16:51:43 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\SignUpServlet.java. Using fallback presentation compiler.
+2026.04.05 16:51:46 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\SignUpServlet.java. Using fallback presentation compiler.
+2026.04.05 16:51:46 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\SignUpServlet.java. Using fallback presentation compiler.
+2026.04.05 16:51:46 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\SignUpServlet.java. Using fallback presentation compiler.
+2026.04.05 16:51:46 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\SignUpServlet.java. Using fallback presentation compiler.
+avr. 05, 2026 4:51:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.05 16:51:49 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\SignUpServlet.java. Using fallback presentation compiler.
+2026.04.05 16:51:56 WARN  no build target for: C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LoginServlet.java
+2026.04.05 16:51:56 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LoginServlet.java. Using fallback presentation compiler.
+2026.04.05 16:51:57 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LoginServlet.java. Using fallback presentation compiler.
+2026.04.05 16:51:56 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LoginServlet.java. Using fallback presentation compiler.
+2026.04.05 16:51:56 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\SignUpServlet.java. Using fallback presentation compiler.
+2026.04.05 16:51:57 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\SignUpServlet.java. Using fallback presentation compiler.
+avr. 05, 2026 4:51:57 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.05 16:51:57 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LoginServlet.java. Using fallback presentation compiler.
+2026.04.05 16:51:56 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LoginServlet.java. Using fallback presentation compiler.
+2026.04.05 16:51:58 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LoginServlet.java. Using fallback presentation compiler.
+2026.04.05 16:52:00 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LoginServlet.java. Using fallback presentation compiler.
+avr. 05, 2026 4:52:00 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.05 16:52:00 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\SignUpServlet.java. Using fallback presentation compiler.
+2026.04.05 16:52:00 WARN  no build target for: C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\SignUpServlet.java
+2026.04.05 16:52:00 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\SignUpServlet.java. Using fallback presentation compiler.
+2026.04.05 16:52:00 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\SignUpServlet.java. Using fallback presentation compiler.
+avr. 05, 2026 4:52:01 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.05 16:52:00 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\SignUpServlet.java. Using fallback presentation compiler.
+2026.04.05 16:52:02 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\SignUpServlet.java. Using fallback presentation compiler.
+2026.04.05 16:52:02 WARN  no build target for: C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LoginServlet.java
+2026.04.05 16:52:02 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LoginServlet.java. Using fallback presentation compiler.
+2026.04.05 16:52:02 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LoginServlet.java. Using fallback presentation compiler.
+2026.04.05 16:52:02 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LoginServlet.java. Using fallback presentation compiler.
+avr. 05, 2026 4:52:02 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 05, 2026 4:52:03 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.05 16:52:03 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LoginServlet.java. Using fallback presentation compiler.
+2026.04.05 16:52:02 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LoginServlet.java. Using fallback presentation compiler.
+2026.04.05 16:52:04 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LoginServlet.java. Using fallback presentation compiler.
+2026.04.05 16:52:04 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LoginServlet.java. Using fallback presentation compiler.
+2026.04.05 16:52:04 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LoginServlet.java. Using fallback presentation compiler.
+2026.04.05 16:52:04 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LoginServlet.java. Using fallback presentation compiler.
+2026.04.05 16:52:05 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LoginServlet.java. Using fallback presentation compiler.
+avr. 05, 2026 4:52:06 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.05 16:52:06 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LoginServlet.java. Using fallback presentation compiler.
+2026.04.05 16:52:14 WARN  no build target for: C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LoginServlet.java
+2026.04.05 16:52:14 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LoginServlet.java. Using fallback presentation compiler.
+2026.04.05 16:52:14 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LoginServlet.java. Using fallback presentation compiler.
+avr. 05, 2026 4:52:14 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.05 16:52:14 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LoginServlet.java. Using fallback presentation compiler.
+2026.04.05 16:52:14 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LoginServlet.java. Using fallback presentation compiler.
+2026.04.05 16:52:15 WARN  no build target for: C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\HomeServlet.java
+2026.04.05 16:52:15 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\HomeServlet.java. Using fallback presentation compiler.
+2026.04.05 16:52:15 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\HomeServlet.java. Using fallback presentation compiler.
+2026.04.05 16:52:15 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\HomeServlet.java. Using fallback presentation compiler.
+avr. 05, 2026 4:52:15 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 05, 2026 4:52:15 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.05 16:52:15 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\HomeServlet.java. Using fallback presentation compiler.
+2026.04.05 16:52:15 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\HomeServlet.java. Using fallback presentation compiler.
+2026.04.05 16:52:16 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\HomeServlet.java. Using fallback presentation compiler.
+2026.04.05 16:52:16 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\HomeServlet.java. Using fallback presentation compiler.
+2026.04.05 16:52:16 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\HomeServlet.java. Using fallback presentation compiler.
+2026.04.05 16:52:17 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\HomeServlet.java. Using fallback presentation compiler.
+2026.04.05 16:52:17 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\HomeServlet.java. Using fallback presentation compiler.
+2026.04.05 16:52:17 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\HomeServlet.java. Using fallback presentation compiler.
+2026.04.05 16:52:17 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\HomeServlet.java. Using fallback presentation compiler.
+2026.04.05 16:52:18 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\HomeServlet.java. Using fallback presentation compiler.
+avr. 05, 2026 4:52:23 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.05 16:52:23 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\HomeServlet.java. Using fallback presentation compiler.
+2026.04.05 16:53:05 WARN  no build target for: C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LogoutServlet.java
+2026.04.05 16:53:05 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LogoutServlet.java. Using fallback presentation compiler.
+2026.04.05 16:53:05 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LogoutServlet.java. Using fallback presentation compiler.
+2026.04.05 16:53:05 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LogoutServlet.java. Using fallback presentation compiler.
+2026.04.05 16:53:05 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\HomeServlet.java. Using fallback presentation compiler.
+2026.04.05 16:53:06 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\HomeServlet.java. Using fallback presentation compiler.
+avr. 05, 2026 4:53:06 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.05 16:53:06 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LogoutServlet.java. Using fallback presentation compiler.
+2026.04.05 16:53:05 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LogoutServlet.java. Using fallback presentation compiler.
+2026.04.05 16:53:07 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LogoutServlet.java. Using fallback presentation compiler.
+2026.04.05 16:53:08 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LogoutServlet.java. Using fallback presentation compiler.
+avr. 05, 2026 4:53:08 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.05 16:53:08 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\HomeServlet.java. Using fallback presentation compiler.
+2026.04.05 16:53:09 WARN  no build target for: C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\HomeServlet.java
+2026.04.05 16:53:09 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\HomeServlet.java. Using fallback presentation compiler.
+avr. 05, 2026 4:53:09 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.05 16:53:08 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\HomeServlet.java. Using fallback presentation compiler.
+2026.04.05 16:53:08 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\HomeServlet.java. Using fallback presentation compiler.
+2026.04.05 16:53:10 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\HomeServlet.java. Using fallback presentation compiler.
+2026.04.05 16:53:11 WARN  no build target for: C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LogoutServlet.java
+2026.04.05 16:53:10 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LogoutServlet.java. Using fallback presentation compiler.
+2026.04.05 16:53:11 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LogoutServlet.java. Using fallback presentation compiler.
+2026.04.05 16:53:10 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LogoutServlet.java. Using fallback presentation compiler.
+avr. 05, 2026 4:53:11 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 05, 2026 4:53:11 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.05 16:53:11 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LogoutServlet.java. Using fallback presentation compiler.
+2026.04.05 16:53:10 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LogoutServlet.java. Using fallback presentation compiler.
+2026.04.05 16:53:12 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LogoutServlet.java. Using fallback presentation compiler.
+2026.04.05 16:53:12 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LogoutServlet.java. Using fallback presentation compiler.
+2026.04.05 16:53:12 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LogoutServlet.java. Using fallback presentation compiler.
+2026.04.05 16:53:12 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LogoutServlet.java. Using fallback presentation compiler.
+2026.04.05 16:53:12 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LogoutServlet.java. Using fallback presentation compiler.
+avr. 05, 2026 4:53:14 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.05 16:53:14 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LogoutServlet.java. Using fallback presentation compiler.
+2026.04.05 16:54:14 WARN  no build target for: C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\filter\AuthFilter.java
+2026.04.05 16:54:14 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\filter\AuthFilter.java. Using fallback presentation compiler.
+2026.04.05 16:54:14 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\filter\AuthFilter.java. Using fallback presentation compiler.
+2026.04.05 16:54:14 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\filter\AuthFilter.java. Using fallback presentation compiler.
+2026.04.05 16:54:14 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LogoutServlet.java. Using fallback presentation compiler.
+2026.04.05 16:54:14 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LogoutServlet.java. Using fallback presentation compiler.
+avr. 05, 2026 4:54:14 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.05 16:54:15 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\filter\AuthFilter.java. Using fallback presentation compiler.
+2026.04.05 16:54:14 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\filter\AuthFilter.java. Using fallback presentation compiler.
+2026.04.05 16:54:15 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\filter\AuthFilter.java. Using fallback presentation compiler.
+2026.04.05 16:54:18 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LogoutServlet.java. Using fallback presentation compiler.
+2026.04.05 16:54:21 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LogoutServlet.java. Using fallback presentation compiler.
+2026.04.05 16:54:21 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LogoutServlet.java. Using fallback presentation compiler.
+2026.04.05 16:54:24 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\filter\AuthFilter.java. Using fallback presentation compiler.
+2026.04.05 16:54:24 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LogoutServlet.java. Using fallback presentation compiler.
+avr. 05, 2026 4:54:24 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.05 16:54:24 WARN  no build target for: C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LogoutServlet.java
+2026.04.05 16:54:24 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LogoutServlet.java. Using fallback presentation compiler.
+2026.04.05 16:54:24 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LogoutServlet.java. Using fallback presentation compiler.
+avr. 05, 2026 4:54:24 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.05 16:54:24 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LogoutServlet.java. Using fallback presentation compiler.
+2026.04.05 16:54:26 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\LogoutServlet.java. Using fallback presentation compiler.
+2026.04.05 16:54:26 WARN  no build target for: C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\filter\AuthFilter.java
+2026.04.05 16:54:26 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\filter\AuthFilter.java. Using fallback presentation compiler.
+2026.04.05 16:54:26 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\filter\AuthFilter.java. Using fallback presentation compiler.
+2026.04.05 16:54:26 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\filter\AuthFilter.java. Using fallback presentation compiler.
+avr. 05, 2026 4:54:26 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 05, 2026 4:54:26 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.05 16:54:26 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\filter\AuthFilter.java. Using fallback presentation compiler.
+2026.04.05 16:54:26 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\filter\AuthFilter.java. Using fallback presentation compiler.
+2026.04.05 16:54:27 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\filter\AuthFilter.java. Using fallback presentation compiler.
+2026.04.05 16:54:27 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\filter\AuthFilter.java. Using fallback presentation compiler.
+2026.04.05 16:54:27 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\filter\AuthFilter.java. Using fallback presentation compiler.
+2026.04.05 16:54:27 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\filter\AuthFilter.java. Using fallback presentation compiler.
+2026.04.05 16:54:29 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\filter\AuthFilter.java. Using fallback presentation compiler.
+2026.04.05 16:54:29 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\filter\AuthFilter.java. Using fallback presentation compiler.
+2026.04.05 16:54:30 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\filter\AuthFilter.java. Using fallback presentation compiler.
+avr. 05, 2026 4:54:30 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.05 16:54:36 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\filter\AuthFilter.java. Using fallback presentation compiler.
+2026.04.05 16:54:36 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\filter\AuthFilter.java. Using fallback presentation compiler.
+2026.04.05 17:01:53 INFO  Shutting down server
+2026.04.05 17:01:53 INFO  Memory monitor stopped
+2026.04.05 17:01:53 INFO  shutting down Metals
+2026.04.05 17:01:53 INFO  Exiting server
+2026.04.05 17:17:39 INFO  Started: Metals version 1.6.6 in folders 'C:\Users\hp\eclipseJEE\Tp3Project' for client Visual Studio Code 1.114.0.
+2026.04.05 17:17:39 INFO  Memory monitor started
+2026.04.05 17:17:42 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.05 17:17:42 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\HomeServlet.java. Using fallback presentation compiler.
+avr. 05, 2026 5:17:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 2
+2026.04.05 17:17:43 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\HomeServlet.java. Using fallback presentation compiler.
+avr. 05, 2026 5:17:44 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.05 17:17:44 WARN  no build tool detected in workspace 'C:\Users\hp\eclipseJEE\Tp3Project'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.04.05 17:17:44 WARN  Build server is not auto-connectable.
+2026.04.05 17:17:44 WARN  no build target for: C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\filter\AuthFilter.java
+2026.04.05 17:17:44 WARN  no build target for: C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\HomeServlet.java
+2026.04.05 17:17:46 INFO  time: code lens generation in 1.92s
+2026.04.05 17:17:46 INFO  Shutting down server
+2026.04.05 17:17:46 INFO  Memory monitor stopped
+2026.04.05 17:17:46 INFO  shutting down Metals
+2026.04.05 17:17:47 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.05 17:17:47 INFO  Exiting server
+2026.04.05 19:06:52 INFO  Started: Metals version 1.6.6 in folders 'C:\Users\hp\eclipseJEE\Tp3Project' for client Visual Studio Code 1.114.0.
+2026.04.05 19:06:52 INFO  Memory monitor started
+2026.04.05 19:06:55 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.05 19:06:55 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\HomeServlet.java. Using fallback presentation compiler.
+2026.04.05 19:06:57 WARN  no build tool detected in workspace 'C:\Users\hp\eclipseJEE\Tp3Project'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.04.05 19:06:57 WARN  Build server is not auto-connectable.
+2026.04.05 19:06:58 WARN  no build target for: C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\HomeServlet.java
+2026.04.05 19:06:58 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\HomeServlet.java. Using fallback presentation compiler.
+2026.04.05 19:07:00 INFO  time: code lens generation in 2.04s
+2026.04.05 19:07:00 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\HomeServlet.java. Using fallback presentation compiler.
+avr. 05, 2026 7:07:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 8
+2026.04.05 19:07:00 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\HomeServlet.java. Using fallback presentation compiler.
+2026.04.05 19:07:05 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\HomeServlet.java. Using fallback presentation compiler.
+2026.04.05 19:07:07 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\HomeServlet.java. Using fallback presentation compiler.
+2026.04.05 19:07:07 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\HomeServlet.java. Using fallback presentation compiler.
+2026.04.05 19:07:09 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\HomeServlet.java. Using fallback presentation compiler.
+2026.04.05 19:07:09 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\HomeServlet.java. Using fallback presentation compiler.
+avr. 05, 2026 7:08:36 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 05, 2026 7:08:36 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.05 19:08:43 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\HomeServlet.java. Using fallback presentation compiler.
+2026.04.05 19:08:43 WARN  no build target for: C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\HomeServlet.java
+2026.04.05 19:08:43 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\HomeServlet.java. Using fallback presentation compiler.
+2026.04.05 19:08:43 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\HomeServlet.java. Using fallback presentation compiler.
+2026.04.05 19:08:43 INFO  no build target found for C:\Users\hp\eclipseJEE\Tp3Project\src\main\java\com\tp\servlet\HomeServlet.java. Using fallback presentation compiler.
+avr. 05, 2026 7:08:44 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+avr. 05, 2026 7:08:44 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.04.05 19:08:44 INFO  Shutting down server
+2026.04.05 19:08:44 INFO  Memory monitor stopped
+2026.04.05 19:08:44 INFO  shutting down Metals
+2026.04.05 19:08:44 INFO  Exiting server
